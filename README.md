@@ -1,14 +1,14 @@
 # Community Committee
 
-The Community Committee is a top-level committee in the [Permissionless Software Foundation](https://PSFoundation.cash) focused on community-facing efforts. For current objectives, read [our OKRs](./okr.md).
+The Community Committee is a top-level committee in the [Permissionless Software Foundation](https://PSFoundation.cash), focused on community-facing efforts. For current objectives, read [our OKRs](./okr.md).
 
-The model for this commity is inspired by this article on [Healthy Open Source](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951) and is adapted from the [Node.js CommComm](https://github.com/nodejs/community-committee).
+The model for this committee is inspired by this article on [Healthy Open Source](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951) and is adapted from the [Node.js CommComm](https://github.com/nodejs/community-committee).
 
-For more details read the [Community Committee Charter](./community-committee-charter.md).
+For more details read the [PSF Community Committee Charter](./community-committee-charter.md).
 
 ## Why does the Community Committee exist?
 
-This Community Committee reflects a formal role and the representation of the 'voice' of the PSF community. The formation of this group as a committee alongside the Technical Steering Committee (TSC) demonstrates that community-focused contributions are valued by the PSF, and that roles other than those of code contributor help foster a healthy, sustainable open source community.
+This Community Committee reflects a formal role and the representation of the 'voice' of the PSF community. The formation of this group as a committee alongside the [Technical Steering Committee](https://github.com/Permissionless-Software-Foundation/TSC) (TSC) demonstrates that community-focused contributions are valued by the PSF, and that roles other than those of code contributor help foster a healthy, sustainable open source community.
 
 The Community Committee works to empower people in every part of the project. By focusing on outward-facing community efforts, we aim to make the PSF more diverse and improve the environment for inclusivity, attracting a wider range of views, voices, and opinions, which in turn helps us ship better software.
 
