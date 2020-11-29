@@ -1,6 +1,8 @@
 # Community Committee
 
-The Community Committee is a top-level committee in the [Permissionless Software Foundation](https://PSFoundation.cash) focused on community-facing efforts. For current objectives, read [our OKRs][./okr.md].
+The Community Committee is a top-level committee in the [Permissionless Software Foundation](https://PSFoundation.cash) focused on community-facing efforts. For current objectives, read [our OKRs](./okr.md).
+
+The model for this commity is inspired by this article on [Healthy Open Source](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951) and is adapted from the [Node.js CommComm](https://github.com/nodejs/community-committee).
 
 For more details read the [Community Committee Charter](./community-committee-charter.md).
 
