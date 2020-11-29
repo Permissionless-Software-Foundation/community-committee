@@ -1,8 +1,7 @@
 # Node.js Community Committee (CommComm) Governance
 
-The Node.js Community Committee initiatives are governed by its Collaborators,
-including the Community Committee (CommComm) which is responsible for the high-level guidance of the
-initiatives.
+The PSF Community Committee is responsible for the high-level guidance of the
+initiatives. These initiatives are governed by its Collaborators.
 
 <!-- TOC -->
 
@@ -55,7 +54,7 @@ Typical activities of a Collaborator include:
 * Participating in working groups or initiatives
 * Merging pull requests
 
-The CommComm periodically reviews the Collaborator list to identify inactive Collaborators. Past Collaborators are typically given Emeritus status. 
+The CommComm periodically reviews the Collaborator list to identify inactive Collaborators. Past Collaborators are typically given Emeritus status.
 
 Emeriti may request that the CommComm restore them to active status. The process is as follows:
 1. The Emeriti opens a PR on [README.md](https://github.com/nodejs/community-committee/blob/master/README.md) moving themselves from the `Community Committee Emeriti` section to the active section.
@@ -81,7 +80,7 @@ among Collaborators.
 
 Working groups and initiatives should check-in with CommComm. As the CommComm Members serve
 as a point of reference for initiatives and working groups, this check-in helps
-to keep all stakeholders across the Node.js project up-to-date. This improves the
+to keep all PSF stakeholders up-to-date. This improves the
 initiatives' and working groups' accountability and success.
 
 ### CommComm Meetings
@@ -105,10 +104,7 @@ meeting chair can bring the issue to the CommComm's attention by applying the
 particular issue, it may be added to the CommComm meeting agenda by adding the
 `cc-agenda` label.
 
-The CC will elect from amongst voting CC members a CC Chairperson to work on building an agenda for CC meetings and a CC Director to represent
-the CC to the Board for a term of one year according to the Node.js Foundation’s By-laws. The Chair and Director may be (but are not required to be)
-the same person. The CC shall hold annual elections to select a CC Chairperson and Director; there are no limits on the number of terms a CC Chairperson
-or Director may serve.
+The CC will elect from amongst voting CC members a CC Chairperson to work on building an agenda for CC meetings for a term of one year. The CC shall hold annual elections to select a CC Chairperson; there are no limits on the number of terms a CC Chairperson may serve.
 
 The CommComm may invite additional persons to participate in a non-voting capacity.
 
@@ -118,11 +114,11 @@ pull request with the minutes is submitted after the meeting.
 Due to the challenges of scheduling a global meeting with participants in
 several time zones, the CommComm will seek to resolve as many agenda items as possible
 outside of meetings using
-[the Community-Committee issue tracker](https://github.com/nodejs/community-committee/issues). The process in
+[the Community-Committee issue tracker](https://github.com/Permissionless-Software-Foundation/community-committee/issues). The process in
 the issue tracker is:
 
 * A CommComm member opens an issue explaining the proposal/issue and @-mentions
-  @nodejs/community-committee.
+  the CommComm Chairperson.
 * After 72 hours, if there are two or more `LGTM`s from other CommComm members and no
   explicit opposition from other CommComm members, then the proposal is approved.
 * If there are any CommComm members objecting, then a conversation ensues until
@@ -167,9 +163,9 @@ This template can be used when onboarding new members:
 ```
 CommComm Membership Checklist:
 
-- [ ] Invite to CommComm GitHub Team (and Node.js GitHub org, if not already a member)
-- [ ] Submit PR to add to the [CommComm email alias](https://github.com/nodejs/email/blob/master/iojs.org/aliases.json)
-- [ ] Submit PR to add to the (CommComm README.md](https://github.com/nodejs/community-committee/blob/master/README.md#community-committee-members)
+- [ ] Invite to CommComm GitHub Team (and PSF GitHub org, if not already a member)
+- [ ] Submit PR to add to the CommComm email alias
+- [ ] Submit PR to add to the (CommComm README.md](../README.md)
 - [ ] Add person to the invited list in the templates for the [process that generates meeting issues](https://github.com/nodejs/create-node-meeting-artifacts)
 ```
 
@@ -184,19 +180,14 @@ manner.
 CommComm Offboarding Checklist:
 
 - [ ] Remove the person from CommComm GitHub Team
-- [ ] Submit PR to remove the person from the [CommComm email alias](https://github.com/nodejs/email/blob/master/iojs.org/aliases.json)
+- [ ] Submit PR to remove the person from the CommComm email alias
 - README:
-  - [ ] If leaving on good terms, submit PR to move the individual to Emeriti the [CommComm README.md](https://github.com/nodejs/community-committee/#community-committee-emeriti)
-  - [ ] If not leaving on good terms, submit PR to remove the person from [CommComm README.md](https://github.com/nodejs/community-committee/#community-committee-members)
+  - [ ] If leaving on good terms, submit PR to move the individual to Emeriti the [CommComm README.md](../README.md)
+  - [ ] If not leaving on good terms, submit PR to remove the person from [CommComm README.md](../README.md)
 - [ ] Remove the person from the invited list in the templates for the [process that generates meeting issues](https://github.com/nodejs/create-node-meeting-artifacts)
 ```
 
 ## Consensus Seeking Process
 
-The CommComm follows a [Consensus Seeking][] decision-making model as described by
-the [CommComm Charter][].
-
-[collaborators-discussions]: https://github.com/orgs/nodejs/teams/collaborators/discussions
-[Consensus Seeking]: https://en.wikipedia.org/wiki/Consensus-seeking_decision-making
-[CommComm Charter]: https://github.com/nodejs/community-committee/blob/master/Community-Committee-Charter.md
-[nodejs/node]: https://github.com/nodejs/node
+The CommComm follows a [Consensus Seeking](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) decision-making model as described by
+the [CommComm Charter](../community-committee-charter.md).

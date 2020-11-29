@@ -1,6 +1,6 @@
 # Community Committee
 
-The Community Committee is a top-level committee in the [Permissionless Software Foundation](https://PSFoundation.cash) focused on community-facing efforts. For current objectives, read [our OKRs][okr.md].
+The Community Committee is a top-level committee in the [Permissionless Software Foundation](https://PSFoundation.cash) focused on community-facing efforts. For current objectives, read [our OKRs][./okr.md].
 
 For more details read the [Community Committee Charter](./community-committee-charter.md).
 
@@ -22,11 +22,11 @@ Before you get started, here's a broad outline of the Community Committee's gove
 - **Community Committee:** meta-level admin concerns, cross-cutting with other groups like the [TSC](https://github.com/Permissionless-Software-Foundation/TSC) and Working Groups.
   - **Initiatives:** focused on specific tasks, independent from the Community Committee but sharing what they're doing in the Community Committee's [bi-weekly meetings][meeting-search].
 
-Most of the community work that immediately affects the PSF is done within the numerous **initiatives**. We recommend checking the [list of initiatives](#strategic-initiatives) below and getting involved with one that you find interesting! If nothing is particularly interesting to you and you have concrete ideas, [open an issue][https://github.com/Permissionless-Software-Foundation/community-committee/issues/new] here! We can help to point you in the right direction.
+Most of the community work that immediately affects the PSF is done within the numerous **initiatives**. We recommend checking the [list of initiatives](#strategic-initiatives) below and getting involved with one that you find interesting! If nothing is particularly interesting to you and you have concrete ideas, [open an issue](https://github.com/Permissionless-Software-Foundation/community-committee/issues/new) here! We can help to point you in the right direction.
 
 To **get started** with contributing, you should read the [Contributing Guidelines](./CONTRIBUTING.md) document. This document details the roles you can take on. It also includes a guide to contributing and links to `good first issue`s where we're looking for help.
 
-If you're interested in participating in the Community Committee directly, you're more than welcome to join via the Zoom link posted in our [bi-weekly meeting][meeting-search] issues.
+If you're interested in participating in the Community Committee directly, you're more than welcome to join via the Zoom link posted in our bi-weekly meeting issues.
 
 ## Strategic Initiatives
 
@@ -42,7 +42,7 @@ A review of the initiatives will be a standing item on the Community Committee a
 
 |       Initiative        |          Champion(s)          | CommComm Liason |              Link               |                 OKR                 |
 | ----------------------- | ----------------------------- | --------------- | ------------------------------- | ----------------------------------- |
-| placeholder                   | placeholder                  |  placeholder        | placeholder                   |                                     |
+| placeholder                   | placeholder                  |  placeholder        | placeholder                   |   placeholder              |
 
 
 ### In Need of Champion
@@ -65,14 +65,14 @@ Community Committee meetings are broadcast via Zoom. The join link is published 
 
 Current meeting cadence is every other week on Thursdays.  Please check the [PSF Project calendar][calendar] for next scheduled meeting.  Also, the [issues][meeting-search] section of this repo will include a CommComm meeting issue, some time before it begins.
 
-We stream our conference call straight to YouTube so anyone can listen to it live, it should start playing on the [PSF YouTube channel][https://www.youtube.com/channel/UCQ57IDXJJSYXHBLpF1tBD0g] when we turn it on. There's usually a short cat-herding time at the start of the meeting and then occasionally we have some quick private business to attend to before we can start recording and streaming. Please be patient, and it should show up.
+We stream our conference call straight to YouTube so anyone can listen to it live, it should start playing on the [PSF YouTube channel](https://www.youtube.com/channel/UCQ57IDXJJSYXHBLpF1tBD0g) when we turn it on. There's usually a short cat-herding time at the start of the meeting and then occasionally we have some quick private business to attend to before we can start recording and streaming. Please be patient, and it should show up.
 
 ## Governance and Current Members
 
 The Community Committee is an autonomous committee that collaborates alongside the [TSC](https://github.com/Permissionless-Software-Foundation/TSC) and whose governance was strongly influenced by the TSC's example. See [governance documentation](./governance) to learn more about the group's evolving structure and [CONTRIBUTING.md](./CONTRIBUTING.md) for guidance about the expectations for all contributors to this project.
 
 ### Community Committee Members
-* [Chris Troutner] - &lt;chris.troutner@gmail.com&gt;
+* [Chris Troutner](https://github.com/christroutner) - &lt;chris.troutner@gmail.com&gt;
 
 
 ### Community Committee Emeriti
