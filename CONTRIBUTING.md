@@ -6,7 +6,7 @@
 
 The Code of Conduct explains the *bare minimum* behavior
 expectations the Node.js Foundation requires from all contributors.
-[Please read it before participating.](https://github.com/nodejs/TSC/blob/master/CODE_OF_CONDUCT.md)
+[Please read it before participating.](https://github.com/Permissionless-Software-Foundation/community-committee/blob/master/code-of-conduct.md)
 
 ## Vocabulary
 
@@ -27,10 +27,8 @@ Below are links to good first issues in several initiatives.
 
 | Initiative         | Good first issues                                                |
 |--------------------|------------------------------------------------------------------|
-| i18n               | https://github.com/nodejs/i18n/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22  |
-| User Feedback      | https://github.com/nodejs/user-feedback/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22 |
-| Website Redesign   | https://github.com/nodejs/website-redesign/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22 |
-| Badges             | https://github.com/nodejs/badges/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22 |
+| placeholder               | placeholder  |
+
 
 The Community Committee repo also has issues tagged as [good first issue](https://github.com/nodejs/community-committee/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22).
 
