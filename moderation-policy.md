@@ -3,7 +3,7 @@
 The PSF moderation policy is adapted from the [Node.js Moderation Policy](https://github.com/nodejs/admin/blob/master/Moderation-Policy.md).
 
 ## Applicability
-By default, this policy applies to all repositories under the PSF GitHub Organization and all PSF Working Groups. This policy also applies to the Node.js Telegram Community, supported by the Admin team of the PSF.
+By default, this policy applies to all repositories under the PSF GitHub Organization and all PSF Working Groups. This policy also applies to the PSF Telegram Community, supported by the Admin team of the PSF.
 
 Individual Working Groups may adopt an alternative Moderation Policy for any repository under their stewardship so long as the Moderation Policy is openly documented as part of the Working Group charter and includes provisions for clearly and openly documenting Moderation actions taken.
 
