@@ -22,7 +22,7 @@ The Community Committee is tasked with growing and sustaining the PSF Community.
 Before you get started, here's a broad outline of the Community Committee's governance structure:
 
 - **Community Committee:** meta-level admin concerns, cross-cutting with other groups like the [TSC](https://github.com/Permissionless-Software-Foundation/TSC) and Working Groups.
-  - **Initiatives:** focused on specific tasks, independent from the Community Committee but sharing what they're doing in the Community Committee's [bi-weekly meetings][meeting-search].
+  - **Initiatives:** focused on specific tasks, independent from the Community Committee but sharing what they're doing in the Community Committee's [bi-weekly meetings][https://github.com/Permissionless-Software-Foundation/community-committee/issues?q=is%3Aissue+is%3Aopen+%22PSF+Community+Committee+Meeting%22].
 
 Most of the community work that immediately affects the PSF is done within the numerous **initiatives**. We recommend checking the [list of initiatives](#strategic-initiatives) below and getting involved with one that you find interesting! If nothing is particularly interesting to you and you have concrete ideas, [open an issue](https://github.com/Permissionless-Software-Foundation/community-committee/issues/new) here! We can help to point you in the right direction.
 
